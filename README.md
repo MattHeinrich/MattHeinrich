@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Working on creating classess sessions for my initial programming class for setting up and using github
+
+I've been around a while. My first computer was a Commodore 128.
+
+I'm originally from Detroit MI, but grew up in SW Missouri.
+
+
+
 <!--
 **MattHeinrich/MattHeinrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
